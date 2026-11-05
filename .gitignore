@@ -1,0 +1,19 @@
+
+# Raw video files
+raw_videos/
+*.yuv
+*.mp4
+*.hevc
+
+# Extracted video frames
+frames/
+
+# Generated MATLAB results
+hw3_results/
+
+# FFmpeg executable
+ffmpeg.exe
+
+# MATLAB temporary files
+*.asv
+*.autosave
