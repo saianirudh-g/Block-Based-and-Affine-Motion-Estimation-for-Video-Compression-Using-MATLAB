@@ -1,0 +1,2 @@
+Sequence,ReferenceFrame,CurrentFrame,BlockSize,ExhaustiveAvgSSD,DiamondAvgSSD,ReductionPercent,ExhaustiveMSE,DiamondMSE
+Beauty,1,2,8,1089,18.1801388888889,98.3305657585961,9.46081380208333,12.1265744357639
